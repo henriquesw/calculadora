@@ -13,6 +13,7 @@ int mumltiplica (int a, int b) {
 	return a*b;
 }
 int divisao (int a, int b) {
+    printf("Aqui é a divisão");
 	return a/b;
 }
 
